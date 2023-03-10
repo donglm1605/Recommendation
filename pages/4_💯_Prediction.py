@@ -5,8 +5,6 @@ from io import BytesIO
 import pandas as pd
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics.pairwise import cosine_similarity, linear_kernel
-from st_aggrid import AgGrid,GridUpdateMode,DataReturnMode, JsCode,ColumnsAutoSizeMode
-from st_aggrid.grid_options_builder import GridOptionsBuilder
 from st_clickable_images import clickable_images
 import joblib
 
