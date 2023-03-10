@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+regex
+underthesea
+streamlit
+gensim
+streamlit_lottie
+st_aggrid
+st_clickable_images
